@@ -29,3 +29,11 @@ git remote add origin https://github.com/Yyaroslava/lab2_iic
 git add .
 git commit -m "Initial commit"
 git config --global --edit
+git init
+git remote add origin https://github.com/Yyaroslava/lab2_iic
+git add .
+git commit -m "Initial commit"
+git config --global user.name "yaroslava"
+git config --global user.email yaroslava.moroz.itis.2020@lpnu.ua
+git push -u origin main
+git status
