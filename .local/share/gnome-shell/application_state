@@ -2,12 +2,12 @@
 <application-state>
   <context id="">
     <application id="snap-store_ubuntu-software.desktop" score="38" last-seen="1678470190"/>
-    <application id="telegram-desktop_telegram-desktop.desktop" score="21" last-seen="1679006737"/>
+    <application id="telegram-desktop_telegram-desktop.desktop" score="26" last-seen="1679007736"/>
     <application id="org.gnome.Nautilus.desktop" score="61" last-seen="1678472108"/>
     <application id="org.gnome.Evince.desktop" score="50" last-seen="1678472082"/>
     <application id="gnome-initial-setup.desktop" score="1" last-seen="1678468349"/>
     <application id="firefox_firefox.desktop" score="8" last-seen="1679006691"/>
-    <application id="org.gnome.Terminal.desktop" score="612" last-seen="1679006724"/>
+    <application id="org.gnome.Terminal.desktop" score="747" last-seen="1679007722"/>
     <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1678470578"/>
     <application id="gnome-control-center.desktop" score="29" last-seen="1678470602"/>
   </context>
