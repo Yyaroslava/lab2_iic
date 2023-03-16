@@ -24,3 +24,8 @@ git commit -m "My change"
 git push
 git checkout master
 git merge dev
+git init
+git remote add origin https://github.com/Yyaroslava/lab2_iic
+git add .
+git commit -m "Initial commit"
+git config --global --edit
